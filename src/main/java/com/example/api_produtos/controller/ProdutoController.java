@@ -1,6 +1,6 @@
 package com.example.api_produtos.controller;
 
-import com.example.api_produtos.model.Produto;
+import com.example.api_produtos.entity.Produto;
 import com.example.api_produtos.repository.ProdutoRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
